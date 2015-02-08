@@ -1,0 +1,25 @@
+/* Component containers
+----------------------------------*/
+.ui-widget { font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif; font-size: 0.6em; }
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button { font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif; font-size: 1em; }
+
+/* Misc visuals
+----------------------------------*/
+.ui-corner-all { -moz-border-radius: 4px; -webkit-border-radius: 4px; }
+
+/* Accordion
+----------------------------------*/
+.ui-accordion .ui-accordion-header a { display: block; font-size: 1em; padding: .5em .5em .5em 2.2em; }
+.ui-accordion .ui-accordion-content { font-size: 1em; padding: 0.5em 0.3em; border-top: 0; margin-top: -2px; position: relative; top: 1px; margin-bottom: 2px; overflow: auto; display: none; }
+
+/* Dialog
+----------------------------------*/
+.ui-dialog .ui-dialog-content { border: 0; padding: 5px; background: none; zoom: 1; }
+.ui-dialog .ui-dialog-buttonpane { text-align: left; border-width: 1px 0 0 0; background-image: none; margin: 0 0 0 0; padding: 0em; }
+.ui-dialog .ui-dialog-buttonpane button { margin: 0.6em 0.4em 0.4em; padding: 0em; }
+
+/* Tabs
+----------------------------------*/
+.ui-tabs .ui-tabs-nav li a { float: left; text-decoration: none; padding: .5em 0.5em; }
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; }
+.ui-tabs .ui-tabs-panel { padding: 0px; display: block; border-width: 0; background: none; }
